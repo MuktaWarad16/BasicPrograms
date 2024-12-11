@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\bin\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.exe
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\bin\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.deps.json
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\bin\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.runtimeconfig.json
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\bin\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\bin\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.dll
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\bin\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.pdb
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.dll
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.pdb
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.genruntimeconfig.cache
+C:\Users\Hp\source\repos\BasicPracticePgmAMPTL\BasicPracticePgmAMPTL\obj\Debug\netcoreapp3.1\BasicPracticePgmAMPTL.sourcelink.json
